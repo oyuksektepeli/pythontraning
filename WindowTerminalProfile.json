@@ -1,0 +1,18 @@
+{
+                "acrylicOpacity" : 0.75,
+                "closeOnExit" : true,
+                "colorScheme" : "Campbell",
+                "commandline" : "py.exe",
+                "cursorColor" : "#FFFFFF",
+                "cursorShape" : "bar",
+                "fontFace" : "Consolas",
+                "fontSize" : 16,
+                "guid" : "{1850e97f-16dc-4281-9ea9-0100c4e852c5}",
+                "historySize" : 9001,
+                "icon" : "C:/Users/oyuks/AppData/Local/Programs/Python/Python38-32/Lib/test/imghdrdata/python.png",
+                "name" : "Python",
+                "padding" : "0, 0, 0, 0",
+                "snapOnInput" : true,
+                "startingDirectory" : "%USERPROFILE%",
+                "useAcrylic" : true
+                }
